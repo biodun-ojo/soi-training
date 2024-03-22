@@ -1,0 +1,29 @@
+header{
+    border-bottom: 1px solid;
+    border-color: blue;
+}
+
+a{
+    padding: 10px;
+}
+
+.header-first-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.explore-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.explore-topic{
+    display: flex;
+    justify-content: space-between;
+}
+
+.three-header{
+    display: flex;
+    justify-content: space-between;
+}
