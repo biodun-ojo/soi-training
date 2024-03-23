@@ -13,6 +13,34 @@ a{
     padding: 10px;
 }
 
+.new-scientic{
+    font-size: 29px;
+}
+
+.sign-in{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.search-bar{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.theme{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.the-bar{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
 .explore-section{
     display: flex;
     justify-content: space-between;
@@ -23,7 +51,18 @@ a{
     justify-content: space-between;
 }
 
+.subscribe-button{
+    border: 1px solid;
+    border-radius: 10px;
+}
+
 .three-header{
     display: flex;
     justify-content: space-between;
+}
+
+.plug-ins{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
 }
