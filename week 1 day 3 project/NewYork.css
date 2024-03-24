@@ -1,3 +1,7 @@
+* {
+    border: 1px dashed;
+}
+
 header{
     border-bottom: 1px solid;
     border-color: blue;
@@ -11,10 +15,12 @@ a{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    align-items: center;
 }
 
 .new-scientic{
     font-size: 29px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .sign-in{
@@ -59,10 +65,23 @@ a{
 .three-header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .plug-ins{
     display: flex;
     justify-content: space-between;
     width: 400px;
+}
+
+h6, .main-body-header, .the-link, .date{
+    margin: 5px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+.main-body{
+    width: 750px;
 }
